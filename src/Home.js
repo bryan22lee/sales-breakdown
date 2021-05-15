@@ -1,4 +1,4 @@
-import React, { Component, useState } from 'react'
+import React, { Component } from 'react'
 import styled from 'styled-components';
 import Switch from "./Switch";
 import Switch2 from "./Switch2";
