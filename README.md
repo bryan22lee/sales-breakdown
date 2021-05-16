@@ -10,8 +10,9 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## *Remarks*
   - The top-left (i.e., 3 lines) button in the Figma design *is* dynamically implemented in this project. It appears when the browser window size is shrunken to a small enough size, and disappears if the browser window size is large enough.
+  - In other words,
 
-!["Figma version"](images/1.png) appears as 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![Figma button pic](images/1.png) appears as ![My button version](images/2.png)
 
 ## Available Scripts
 
