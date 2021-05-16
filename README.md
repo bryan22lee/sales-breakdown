@@ -37,7 +37,7 @@ you can run
 ### `npm install`
 
 followed by
-### `yarn test`
+### `yarn start`
 
 if you have [yarn](https://classic.yarnpkg.com/en/docs/install#debian-stable) installed.
 
